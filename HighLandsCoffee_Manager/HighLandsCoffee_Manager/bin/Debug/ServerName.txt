@@ -1,0 +1,3 @@
+﻿THAO\MSSQLSERVER22
+sa
+123

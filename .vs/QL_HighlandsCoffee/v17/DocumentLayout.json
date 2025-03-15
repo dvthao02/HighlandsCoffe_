@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\ql_highlandscoffee\\gui\\childform\\napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\quantrinhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\quantrinhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\ql_highlandscoffee\\gui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\waitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\waitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\chuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\chuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\ql_highlandscoffee\\gui\\childform\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\ql_highlandscoffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\ql_highlandscoffee\\gui\\childform\\napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C96ED-D650-4198-8380-B8A1A8018C39}|QL_HighlandsCoffee\\QL_HighlandsCoffee.csproj|solutionrelative:ql_highlandscoffee\\gui\\childform\\napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 353,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\ThongKe.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\ThongKe.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\ThongKe.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:18.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanTriNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTriNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTriNhanVien.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTriNhanVien.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTriNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:18.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\Login.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:15:35.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhanTich.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\PhanTich.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\PhanTich.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\PhanTich.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\PhanTich.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:18.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NapDuLieu.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:20.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\Login.Designer.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\Login.Designer.cs",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:15:31.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanTri.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTri.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTri.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTri.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\QuanTri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaitForm.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\WaitForm.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\WaitForm.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\WaitForm.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\WaitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:28:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChuongTrinh.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChuongTrinh.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChuongTrinh.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChuongTrinh.cs [Design]*",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChuongTrinh.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:15:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\DoiMatKhau.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\DoiMatKhau.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:20.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Backup.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\Backup.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\Backup.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\Backup.cs [Design]",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\Backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:11:47.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\Program.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\Program.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\Program.cs",
+              "RelativeToolTip": "QL_HighlandsCoffee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NapDuLieu.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs",
+              "RelativeDocumentMoniker": "QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs",
+              "RelativeToolTip": "QL_HighlandsCoffee\\GUI\\ChildForm\\NapDuLieu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:18.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

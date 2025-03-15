@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\highlandscoffee_manager\\highlandscoffee_manager\\highlandscoffee_manager\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\highlandscoffee_manager\\highlandscoffee_manager\\highlandscoffee_manager\\bus\\bustaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\bus\\bustaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\dao\\dsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\dao\\dsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\childform\\frmadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\highlandscoffee_manager\\highlandscoffee_manager\\highlandscoffee_manager\\gui\\childform\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\childform\\frmacount_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmacount_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\bus\\busdsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\bus\\busdsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|d:\\doanchuyennganh\\ql_highlandscoffee\\highlandscoffee_manager\\highlandscoffee_manager\\highlandscoffee_manager\\gui\\childform\\frmbackup_restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmbackup_restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\childform\\frmdataanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmdataanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\dao\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\dao\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\dao\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\dao\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\childform\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\childform\\frmloaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\childform\\frmloaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\frmconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\highlandscoffee_manager\\gui\\waitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8994FDF-F02E-44D5-B72B-FE77F0D8993F}|HighLandsCoffee_Manager\\HighLandsCoffee_Manager.csproj|solutionrelative:highlandscoffee_manager\\gui\\waitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 353,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DTO\\NhanVien.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\DTO\\NhanVien.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DTO\\NhanVien.cs",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\DTO\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:22:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusTaiKhoan.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\BUS\\BusTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\BUS\\BusTaiKhoan.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\BUS\\BusTaiKhoan.cs",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\BUS\\BusTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:22:55.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmChangePassword.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:41:57.147Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\frmMain.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\frmMain.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:00:29.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdministration.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAdministration.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAdministration.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAdministration.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAdministration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:00:36.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\frmLogin.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:59:46.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DSNV.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DAO\\DSNV.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\DAO\\DSNV.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DAO\\DSNV.cs",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\DAO\\DSNV.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:16:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusDSNV.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\BUS\\BusDSNV.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\BUS\\BusDSNV.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\BUS\\BusDSNV.cs",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\BUS\\BusDSNV.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:15:05.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBackUp_Restore.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmBackUp_Restore.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmBackUp_Restore.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmBackUp_Restore.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmBackUp_Restore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:00:32.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmStatistics.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmStatistics.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmStatistics.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmStatistics.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmStatistics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:06:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAcount_Info.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAcount_Info.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAcount_Info.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAcount_Info.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmAcount_Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:00:34.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDataAnalysis.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmDataAnalysis.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmDataAnalysis.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmDataAnalysis.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmDataAnalysis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:06:27.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DAO\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\DAO\\TaiKhoan.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DAO\\TaiKhoan.cs",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\DAO\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:24:39.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DAO\\KetNoi.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\DAO\\KetNoi.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\DAO\\KetNoi.cs",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\DAO\\KetNoi.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:24:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLoadData.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmLoadData.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmLoadData.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\ChildForm\\frmLoadData.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\ChildForm\\frmLoadData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:27:58.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WaitForm.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\WaitForm.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\WaitForm.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\WaitForm.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\WaitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:59:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmConnect.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\frmConnect.cs",
+              "RelativeDocumentMoniker": "HighLandsCoffee_Manager\\GUI\\frmConnect.cs",
+              "ToolTip": "D:\\DoAnChuyenNganh\\QL_HighlandsCoffee\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\HighLandsCoffee_Manager\\GUI\\frmConnect.cs [Design]",
+              "RelativeToolTip": "HighLandsCoffee_Manager\\GUI\\frmConnect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:58:03.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

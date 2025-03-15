@@ -1,0 +1,708 @@
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.Properties.Resources.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.GenerateResource.cache
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CoreCompileInputs.cache
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe.config
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.pdb
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.pdb
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.WaitForm.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe.licenses
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CopyComplete
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmBackUp_Restore.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmAdministration.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmStatistics.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmLogin.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Images.v22.2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe.config
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.pdb
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\FontAwesome.Sharp.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Guna.UI2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Images.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.AssemblyReference.cache
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmAcount_Info.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmBackUp_Restore.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmChangePassword.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmDataAnalysis.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmAdministration.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmLoadData.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmStatistics.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmLogin.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmMain.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.WaitForm.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.Properties.Resources.resources
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.GenerateResource.cache
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe.licenses
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CoreCompileInputs.cache
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CopyComplete
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe
+D:\du lieu\An\Do an CN\do an highlands\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.pdb
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\FontAwesome.Sharp.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Guna.UI2.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmChangePassword.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmLoadData.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmHome.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmDataAnalysis_.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmMain.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.AssemblyReference.cache
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmConnectDB.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.Account_Info.resources
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.xml
+D:\DoAnChuyenNganh\Form\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.AssemblyReference.cache
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.Account_Info.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmBackUp_Restore.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmChangePassword.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmAdministration.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmDataAnalysis_.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmHome.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmLoadData.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmStatistics.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmConnectDB.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmLogin.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmMain.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.WaitForm.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.Properties.Resources.resources
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.GenerateResource.cache
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe.licenses
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CoreCompileInputs.cache
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.pdb
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe.config
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.pdb
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\FontAwesome.Sharp.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Guna.UI2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Images.v22.2.dll
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\du lieu\An\Do an CN\do an highlands\thao\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CopyComplete
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\runtimes\win-x86\native\msalruntime_x86.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\runtimes\win-x64\native\msalruntime.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe.config
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.pdb
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\FontAwesome.Sharp.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Guna.UI2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\MaterialSkin.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.Broker.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.NativeInterop.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Buffers.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Memory.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Numerics.Vectors.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Images.v22.2.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.Broker.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Buffers.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Memory.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Numerics.Vectors.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\zh-Hans\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\zh-Hant\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.AssemblyReference.cache
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmDoiMatKhau.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmKhaiPha.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmNapDuLieu.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmPhanTichDuLieu.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmSaoLuuPhuchoi.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmThongKeDuLieu.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmThongTinTaiKhoan.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmHome.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmQuanTri.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmChuongTrinh.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmDangNhap.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmKetNoiServer.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.WaitForm.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.Properties.Resources.resources
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.GenerateResource.cache
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe.licenses
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CoreCompileInputs.cache
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CopyComplete
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe
+D:\CapNhatDoAnCN\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.pdb
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmDoiMatKhau.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmKhaiPha.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmNapDuLieu.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmPhanTichDuLieu.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmSaoLuuPhuchoi.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmThongKeDuLieu.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmThongTinTaiKhoan.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmHome.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.ChildForm.frmQuanTri.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmChuongTrinh.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmDangNhap.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.frmKetNoiServer.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.GUI.WaitForm.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.Properties.Resources.resources
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.GenerateResource.cache
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe.licenses
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CoreCompileInputs.cache
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\runtimes\win-x86\native\msalruntime_x86.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\runtimes\win-x64\native\msalruntime.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe.config
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.exe
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\HighLandsCoffee_Manager.pdb
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\FontAwesome.Sharp.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Guna.UI2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\MaterialSkin.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.Broker.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.NativeInterop.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Buffers.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Memory.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Numerics.Vectors.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Images.v22.2.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.Identity.Client.Broker.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Buffers.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Memory.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Numerics.Vectors.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\zh-Hans\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\bin\Debug\zh-Hant\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.csproj.CopyComplete
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.exe
+D:\DoAnChuyenNganh\QL_HighlandsCoffee\HighLandsCoffee_Manager\HighLandsCoffee_Manager\obj\Debug\HighLandsCoffee_Manager.pdb

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard CurrencyCulture="en-US">
+  <Title Text="Biểu Đồ Thống kê dữ liệu " />
+  <DataSources>
+    <OLAPDataSource ComponentName="dashboardOlapDataSource1" Name="SSAS_HighlandsCoffee_" ConnectionName="THAO\MSSQLSERVER22_SSAS_HighlandsCoffee__DDS Highlands Coffee" ConnectionString="data source=THAO\MSSQLSERVER22;initial catalog=SSAS_HighlandsCoffee_;Cube Name=DDS Highlands Coffee;" />
+  </DataSources>
+  <Items>
+    <Chart ComponentName="chartDashboardItem1" Name="Thống kê doanh thu theo tuổi qua từng năm" DataSource="dashboardOlapDataSource1" FilterString="Not [[Dim Khach Hang\].[Tuoi\].[Tuoi\]] = '[Dim Khach Hang].[Tuoi].[All].UNKNOWNMEMBER'">
+      <ColoringOptions UseGlobalColors="false" />
+      <DataItems>
+        <Measure DataMember="[Measures].[Doanh Thu]" DefaultId="DataItem0" />
+        <Dimension DataMember="[Dim Thoi Gian].[Nam].[Nam]" DefaultId="DataItem1" />
+        <Dimension DataMember="[Dim Khach Hang].[Tuoi].[Tuoi]" DefaultId="DataItem3" />
+      </DataItems>
+      <SeriesDimensions>
+        <SeriesDimension DefaultId="DataItem1" />
+      </SeriesDimensions>
+      <Arguments>
+        <Argument DefaultId="DataItem3" />
+      </Arguments>
+      <Panes>
+        <Pane Name="Pane 1">
+          <Series>
+            <Simple SeriesType="Spline">
+              <Value DefaultId="DataItem0" />
+            </Simple>
+          </Series>
+        </Pane>
+      </Panes>
+    </Chart>
+    <Pie ComponentName="pieDashboardItem1" Name="Thống kê doanh thu theo Đối tượng Khách hàng" DataSource="dashboardOlapDataSource1">
+      <DataItems>
+        <Measure DataMember="[Measures].[Doanh Thu]" DefaultId="DataItem0" />
+        <Dimension DataMember="[Dim Khach Hang].[Ten Loai KH].[Ten Loai KH]" DefaultId="DataItem1" />
+      </DataItems>
+      <Arguments>
+        <Argument DefaultId="DataItem1" />
+      </Arguments>
+      <Values>
+        <Value DefaultId="DataItem0" />
+      </Values>
+    </Pie>
+    <Chart ComponentName="chartDashboardItem2" Name="Thống kê Lợi nhuận theo Chi nhánh" DataSource="dashboardOlapDataSource1">
+      <DataItems>
+        <Measure DataMember="[Measures].[Loi Nhuan]" DefaultId="DataItem0" />
+        <Dimension DataMember="[Dim Chi Nhanh].[Ten Chi Nhanh].[Ten Chi Nhanh]" DefaultId="DataItem1" />
+      </DataItems>
+      <Arguments>
+        <Argument DefaultId="DataItem1" />
+      </Arguments>
+      <Panes>
+        <Pane Name="Pane 1">
+          <Series>
+            <Simple Name="Lợi nhuận">
+              <Value DefaultId="DataItem0" />
+            </Simple>
+          </Series>
+        </Pane>
+      </Panes>
+    </Chart>
+    <Chart ComponentName="chartDashboardItem3" Name="Thống kê số lượng bán của từng sản phẩm" DataSource="dashboardOlapDataSource1">
+      <DataItems>
+        <Dimension DataMember="[Dim San Pham].[Ten San Pham].[Ten San Pham]" DefaultId="DataItem0" />
+        <Measure DataMember="[Measures].[So Luong Ban]" DefaultId="DataItem1" />
+      </DataItems>
+      <Arguments>
+        <Argument DefaultId="DataItem0" />
+      </Arguments>
+      <Panes>
+        <Pane Name="Pane 1">
+          <Series>
+            <Simple Name="Số lượng bán">
+              <Value DefaultId="DataItem1" />
+            </Simple>
+          </Series>
+        </Pane>
+      </Panes>
+    </Chart>
+  </Items>
+  <LayoutTree>
+    <LayoutGroup>
+      <LayoutGroup Orientation="Vertical" Weight="0.25">
+        <LayoutItem DashboardItem="chartDashboardItem1" Weight="0.25" />
+        <LayoutItem DashboardItem="chartDashboardItem2" Weight="0.25" />
+      </LayoutGroup>
+      <LayoutGroup Orientation="Vertical" Weight="0.25">
+        <LayoutItem DashboardItem="pieDashboardItem1" Weight="0.25" />
+        <LayoutItem DashboardItem="chartDashboardItem3" Weight="0.25" />
+      </LayoutGroup>
+    </LayoutGroup>
+  </LayoutTree>
+</Dashboard>
